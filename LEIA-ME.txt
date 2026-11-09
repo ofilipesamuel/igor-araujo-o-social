@@ -1,0 +1,9 @@
+IGOR ARAÚJO — O SOCIAL | DEMONSTRAÇÃO PRIVADA
+
+Abra index.html em um navegador atualizado. Não é necessário instalar nada.
+Mantenha index.html, style.css, script.js e a pasta assets juntos.
+
+Site estático, fontes locais, fotos otimizadas e sem dependências externas.
+Instagram e WhatsApp abrem os canais informados.
+Esta demonstração não foi publicada.
+
